@@ -172,7 +172,7 @@ Key findings and business recommendations will be added after the analysis is fi
 showroom-analytics/
 │
 ├── data/
-│   └── README.md
+│   └── showroom_mobil_clean_csv
 │
 ├── sql/
 │   └── showroom_analysis.sql
