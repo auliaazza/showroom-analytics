@@ -173,19 +173,14 @@ showroom-analytics/
 │
 ├── data/
 │   └── showroom_mobil_clean_csv
-│
 ├── sql/
 │   └── showroom_analysis.sql
-│
 ├── python/
-│   └── showroom_eda.ipynb
-│
+│   └── Showroom_Analytics_EDA.ipynb
 ├── powerbi/
 │   └── showroom_dashboard.pbix
-│
 ├── images/
 │   └── dashboard-preview.png
-│
 └── README.md
 ```
 
