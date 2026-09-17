@@ -178,9 +178,13 @@ showroom-analytics/
 ├── python/
 │   └── Showroom_Analytics_EDA.ipynb
 ├── powerbi/
-│   └── showroom_dashboard.pbix
+│   └── showroom-analytics-dashboard.pbix
 ├── images/
-│   └── dashboard-preview.png
+│   └── showroom-analytics-dashboard-1.png
+│   └── showroom-analytics-dashboard-2.png
+│   └── showroom-analytics-dashboard-3.png
+│   └── showroom-analytics-dashboard-4.png
+│   └── showroom-analytics-dashboard-5.png
 └── README.md
 ```
 
