@@ -173,7 +173,6 @@ Key findings and business recommendations will be added after the analysis is fi
 
 > Key takeaway: Around 89,51% of reported sales were realized through completed transactions.
 
----
 
 2. Revenue Drivers
 
@@ -183,7 +182,6 @@ Key findings and business recommendations will be added after the analysis is fi
 
 > Key takeaway: Revenue was strongly driven by the SUV category, with the Honda CR-V 1.5 Turbo RS as the highest-revenue product.
 
----
 
 3. Branch Performance
 
@@ -194,7 +192,6 @@ Key findings and business recommendations will be added after the analysis is fi
 
 > Key takeaway: Revenue and completion rate were not concentrated in the same branch, so branch performance should be assessed using multiple metrics.
 
----
 
 4. Customer & Transaction Behavior
 
@@ -204,7 +201,6 @@ Key findings and business recommendations will be added after the analysis is fi
 
 > Key takeaway: Credit payment was the dominant payment method, while the Honda HR-V 1.5 E CVT had the highest sales volume.
 
----
 
 5. Trade-In
 
@@ -214,7 +210,6 @@ Key findings and business recommendations will be added after the analysis is fi
 
 > Key takeaway: Trade-In was involved in more than one-third of all transactions, with moderate variation across branches.
 
----
 
 6. Sales Trend
 
@@ -229,7 +224,7 @@ Key findings and business recommendations will be added after the analysis is fi
 
 ---
 
-Business Implications
+## Business Implications
 
 Based on the exploratory analysis:
 
