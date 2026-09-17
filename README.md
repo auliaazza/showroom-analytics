@@ -154,7 +154,7 @@ Analyzed sales performance over time to identify changes in transaction volume a
 
 The final analysis is presented through an interactive **Power BI dashboard**, providing a consolidated view of showroom sales performance.
 
-> Dashboard preview will be added here.
+> ![Showroom Analytics Dashboard](images/showroom-analytics-dashboard-1.png)
 
 ---
 
