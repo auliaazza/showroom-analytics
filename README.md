@@ -162,7 +162,7 @@ The final analysis is presented through an interactive **Power BI dashboard**, p
 
 Key findings and business recommendations will be added after the analysis is finalized.
 
-> 1. Revenue Realization
+1. Revenue Realization
 
 - Reported sales: Rp3,09 T
 - Realized sales: Rp2,77 T
@@ -171,7 +171,7 @@ Key findings and business recommendations will be added after the analysis is fi
   - Cancelled transactions: Rp169,93 M from 542 transactions
   - Refund transactions: Rp154,61 M from 492 transactions
 
-«Key takeaway: Around 89,51% of reported sales were realized through completed transactions.»
+> Key takeaway: Around 89,51% of reported sales were realized through completed transactions.
 
 ---
 
@@ -181,7 +181,7 @@ Key findings and business recommendations will be added after the analysis is fi
 - Top product: Honda CR-V 1.5 Turbo RS — Rp271,82 M from 455 units sold.
 - Top branch by realized revenue: Malang — Rp291,61 M.
 
-«Key takeaway: Revenue was strongly driven by the SUV category, with the Honda CR-V 1.5 Turbo RS as the highest-revenue product.»
+> Key takeaway: Revenue was strongly driven by the SUV category, with the Honda CR-V 1.5 Turbo RS as the highest-revenue product.
 
 ---
 
@@ -192,7 +192,7 @@ Key findings and business recommendations will be added after the analysis is fi
 - Malang recorded the highest revenue but a lower completion rate of 88,70% among the top 5 branches.
 - Batam achieved the highest completion rate while ranking 5th in revenue.
 
-«Key takeaway: Revenue and completion rate were not concentrated in the same branch, so branch performance should be assessed using multiple metrics.»
+> Key takeaway: Revenue and completion rate were not concentrated in the same branch, so branch performance should be assessed using multiple metrics.
 
 ---
 
@@ -202,7 +202,7 @@ Key findings and business recommendations will be added after the analysis is fi
 - Most-used payment type: Kredit — 3,813 completed transactions generating Rp1,40 T in revenue.
 - Top-selling product: Honda HR-V 1.5 E CVT — 509 completed units sold and 557 transactions overall.
 
-«Key takeaway: Credit payment was the dominant payment method, while the Honda HR-V 1.5 E CVT had the highest sales volume.»
+> Key takeaway: Credit payment was the dominant payment method, while the Honda HR-V 1.5 E CVT had the highest sales volume.
 
 ---
 
@@ -212,7 +212,7 @@ Key findings and business recommendations will be added after the analysis is fi
 - Highest Trade-In usage: Karawang — 37,62%
 - Bandung: 35,19%, almost in line with the overall average.
 
-«Key takeaway: Trade-In was involved in more than one-third of all transactions, with moderate variation across branches.»
+> Key takeaway: Trade-In was involved in more than one-third of all transactions, with moderate variation across branches.
 
 ---
 
@@ -225,7 +225,7 @@ Key findings and business recommendations will be added after the analysis is fi
 - Highest monthly completion rate: July — 90,97%
 - Lowest monthly completion rate: November — 88,73%
 
-«Key takeaway: July and August were the strongest months in terms of sales performance, with July leading unit sales and August recording the highest realized revenue.»
+> Key takeaway: July and August were the strongest months in terms of sales performance, with July leading unit sales and August recording the highest realized revenue.
 
 ---
 
@@ -252,6 +252,7 @@ Compare Trade-In adoption across branches to identify differences in customer be
 5. Sales Trend
 
 Use monthly sales patterns to support sales target setting, inventory planning, and resource allocation.
+
 ---
 
 ## Project Structure
